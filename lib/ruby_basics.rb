@@ -24,5 +24,5 @@ phrase = "expert"
 end
 
 def pizza_party(lol="cheese")
-puts lol
+return lol
 end
